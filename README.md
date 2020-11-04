@@ -23,6 +23,6 @@ ___
 * Jonathan MENSCHAERT
 ---
 ### **_To-do list_**
-- [x] Plot data on humidity, pressure and rainfall (Idrees)
+- [x] Plot data on humidity, pressure and rainfall (Jonathan)
 - [x] Plot data on temperature and wind (Emmanuel)
 - [x] Update and pimp readme file (Emmanuel)
